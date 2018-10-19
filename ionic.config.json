@@ -1,0 +1,7 @@
+{
+  "name": "ionic-dynamic-style",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
